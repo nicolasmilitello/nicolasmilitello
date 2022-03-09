@@ -25,13 +25,18 @@
 
 <h3 align="left">Projects:</h3>
 
-- ☁ Weather App. </br>
-  <img src="./img/Screenshot_Weather_01.png" alt="WeatherAppProject" width="500" height="227"/>
-  <img src="./img/Screenshot_Weather_02.png" alt="WeatherAppProject" width="500" height="227"/>
+- <img src="./img/IrupeLogo.png" alt="IrupeLogoProject" width="12" height="12"/> Irupe. </br>
+  <img src="./img/Screenshot_Irupe_01.png" alt="IrupeProject" width="500" height="227"/></br>
+  <img src="./img/Screenshot_Irupe_02.png" alt="IrupeProject" width="500" height="227"/></br>
+  <img src="./img/Screenshot_Mobile_Irupe_01.png" alt="IrupeMobileProject" width="293" height="519"/></br>
 
-- ⌚ Timer App. </br>
-  <img src="./img/Screenshot_Timer_01.png" alt="TimerAppProject" width="500" height="227"/>
-  <img src="./img/Screenshot_Timer_02.png" alt="TimerAppProject" width="500" height="227"/>
+- ☁ Weather App [Academic]</br>
+  <img src="./img/Screenshot_Weather_01.png" alt="WeatherAppProject" width="500" height="227"/></br>
+  <img src="./img/Screenshot_Weather_02.png" alt="WeatherAppProject" width="500" height="227"/></br>
+
+- ⌚ Timer App [Academic]</br>
+  <img src="./img/Screenshot_Timer_01.png" alt="TimerAppProject" width="500" height="227"/></br>
+  <img src="./img/Screenshot_Timer_02.png" alt="TimerAppProject" width="500" height="227"/></br>
 
 ---
 
