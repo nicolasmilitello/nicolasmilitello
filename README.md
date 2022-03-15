@@ -30,11 +30,12 @@
   <img src="./img/Screenshot_Irupe_02.png" alt="IrupeProject" width="500" height="227"/></br>
   <img src="./img/Screenshot_Mobile_Irupe_01.png" alt="IrupeMobileProject" width="293" height="519"/></br>
 
-  - <img src="./img/logo.png" alt="NaminiAppLogoProject" width="12" height="12"/> <a href="https://namini-app-nicolas-militello.vercel.app" target="_blank" rel="noreferrer">Namini App </a> </br>
-    <img src="./img/Screenshot_Namini_01.png" alt="IrupeProject" width="500" height="227"/></br>
-    <img src="./img/Screenshot_Namini_02.png" alt="IrupeProject" width="500" height="227"/></br>
-    <img src="./img/Screenshot_Namini_03.png" alt="IrupeProject" width="500" height="227"/></br>
-    > </br>
+- <img src="./img/logo.png" alt="NaminiAppLogoProject" width="12" height="12"/> <a href="https://namini-app-nicolas-militello.vercel.app" target="_blank" rel="noreferrer">Namini App </a> </br>
+  <img src="./img/Screenshot_Namini_01.png" alt="IrupeProject" width="500" height="227"/></br>
+  <img src="./img/Screenshot_Namini_02.png" alt="IrupeProject" width="500" height="227"/></br>
+  <img src="./img/Screenshot_Namini_03.png" alt="IrupeProject" width="500" height="227"/></br>
+
+  > </br>
 
 - ☁ <a href="https://weatherapp-nicolas-militello.vercel.app/" target="_blank" rel="noreferrer">Weather App [Academic] </a></br>
   <img src="./img/Screenshot_Weather_01.png" alt="WeatherAppProject" width="500" height="227"/></br>
