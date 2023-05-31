@@ -3,21 +3,58 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nicolasmilitello&label=Profile%20views&color=0e75b6&style=flat" alt="nicolasmilitello" /> </p>
 
-- 💬 Ask me about **React, JavaScript, Node, or whatever you want!**
+- 💬 Ask me about **ReactJs, NextJs, JavaScript, TypeScript, Redux, Jest, NodeJs, Express, Sequelize, Postgres or whatever you want!**
 
-- 📫 How to reach me **nicolas.militello@hotmail.com**
+- 📫 You can reach me **nicolas.militello@hotmail.com**
 
-- 💡 You can see my portfolio <a href="https://portfolio-nicolasmilitello.vercel.app/" target="_blank" rel="noreferrer">here</a>!
+- 💡 You can see my portfolio <a href="https://portfolio-nicolasmilitello.vercel.app/" target="_blank" rel="noreferrer" title="Visit Nicolas's portfolio">here</a>!
 
 ---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/nicolas-militello-full-stack/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nicolas-militello-full-stack/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/nicolas-militello-full-stack/" target="blank"><img align="center" src="img/Icono Linkedin.png" alt="https://www.linkedin.com/in/nicolas-militello-full-stack/" height="40" width="40" title="Visit Nicolas's LinkedIn profile" /></a>
 </p>
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="express" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1024px-Typescript_logo_2020.svg.png" alt="typescript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/></a> </p>
+<h3 align="left">Some of the languages, frameworks, and tools I use:</h3>
 
+<p align="left">
+<img src="img/JavaScript circular.png" alt="JavaScript" width="40" height="40" title="JavaScript" />
+<img src="img/TypeScript circular.png" alt="TypeScript" width="40" height="40" title="TypeScript" />
+<img src="img/Html circular.png" alt="html5" width="40" height="40" title="HTML5" />
+<img src="img/Css circular.png" alt="css3" width="40" height="40" title="CSS3" />
+<img src="img/Styled Components circular.png" alt="Styled Components" width="40" height="40" title="Styled Components" />
+<img src="img/Sass circular.png" alt="SASS" width="40" height="40" title="SASS" />
+<img src="img/Tailwind circular.png" alt="Tailwind" width="40" height="40" title="Tailwind" />
+<img src="img/Bootstrap circular.png" alt="Bootstrap" width="40" height="40" title="Bootstrap" />
+<img src="img/React circular.png" alt="ReactJs" width="40" height="40" title="ReactJs" />
+<img src="img/Nextjs circular.png" alt="NextJs" width="40" height="40" title="NextJs" />
+<img src="img/Gatsby circular.png" alt="GatsbyJs" width="40" height="40" title="GatsbyJs" />
+<img src="img/Redux circular.png" alt="Redux" width="40" height="40" title="Redux" />
+<img src="img/Jest circular.png" alt="Jest" width="40" height="40" title="Jest" />
+<img src="img/Testing Library circular.png" alt="Testing Library" width="40" height="40" title="Testing Library" />
+<img src="img/GraphQL circular.png" alt="GraphQL" width="40" height="40" title="GraphQL" />
+<img src="img/NodeJs circular.png" alt="NodeJs" width="40" height="40" title="NodeJs" />
+<img src="img/Express circular.png" alt="Express" width="40" height="40" title="Express" />
+<img src="img/Postman circular.png" alt="Postman" width="40" height="40" title="Postman" />
+<img src="img/Sequelize circular.png" alt="Sequelize" width="40" height="40" title="Sequelize" />
+<img src="img/Postgres circular.png" alt="PostgreSQL" width="40" height="40" title="PostgreSQL" />
+<img src="img/Git circular.png" alt="Git" width="40" height="40" title="Git" />
+<img src="img/Github circular.png" alt="Github" width="40" height="40" title="Github" />
+<img src="img/Gitlab circular.png" alt="Gitlab" width="40" height="40" title="Gitlab" />
+<img src="img/Bitbucket circular.png" alt="Bitbucket" width="40" height="40" title="Bitbucket" />
+<img src="img/Jira circular.png" alt="Jira" width="40" height="40" title="Jira" />
+<img src="img/Asana circular.png" alt="Asana" width="40" height="40" title="Asana" />
+</p>
+
+---
+
+<h3 align="left">Some of my projects you can visit:</h3>
+
+- 🎵 <a href="https://github.com/nicolasmilitello/spotify-nextjs" target="_blank" rel="noreferrer" title="Visit project">SpotifyApp</a>
+
+- 🦸 <a href="https://github.com/nicolasmilitello/marvelapp" target="_blank" rel="noreferrer" title="Visit project">MarvelApp</a>
+
+- 🎲 <a href="https://github.com/nicolasmilitello/tictactoe" target="_blank" rel="noreferrer" title="Visit project">Tic Tac Toe & Colored Time Machine</a>
